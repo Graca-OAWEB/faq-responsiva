@@ -1,1 +1,2 @@
-# faq-responsiva
+# FAQ-responsiva
+![preview](preview.jpeg)
