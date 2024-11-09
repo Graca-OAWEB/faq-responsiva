@@ -17,7 +17,7 @@ body{
   align-content: center;
   align-items: center;
  /* background-color: #F6F9FF;*/
-  background-image: radial-gradient(circle at 10% 100%, rgb(127, 40, 181) 5%, transparent 30%), radial-gradient(circle at 80% 0%, rgb(127, 40, 181) 5%, rgb(32, 15, 43) 30%)
+  background-image: radial-gradient(circle at 10% 100%, rgb(127, 40, 181) 5%, transparent 30%), radial-gradient(circle at 80% 0%, rgb(127, 40, 181) 5%, rgb(32, 15, 43) 30%);
 }
 main{
   height: 80vh;
