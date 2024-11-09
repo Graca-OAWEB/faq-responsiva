@@ -70,9 +70,8 @@ h2{
   display: flex;
   justify-content: space-between;
   padding: 0 2em;
-  width: 74.2%;
   background: #cecece; 
-  color:rgb(127, 40, 181) ;
+  color:rgb(32, 15, 43)  ;
   font-size: 2em;
 }
 h2:hover{
