@@ -71,8 +71,8 @@ h2{
   justify-content: space-between;
   padding: 0 2em;
   width: 74.2%;
-  background: #141f01; 
-  color: #4b5041;  
+  background: #cecece; 
+  color:rgb(127, 40, 181) ;
   font-size: 2em;
 }
 h2:hover{
